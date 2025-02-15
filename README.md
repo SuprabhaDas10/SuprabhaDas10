@@ -1,5 +1,5 @@
 # Hi there, I’m Suprabha Das!
- B.Tech(CSIT) | 3RD YEAR | Data Science & Tech Enthusiast passionate about Coding | DSA | SQL | Cyber security | Machine Learning | Power bi | Pyhton | Data analytics | OOP
+ B.Tech(CSIT) | 3RD YEAR | Data Science & Tech Enthusiast passionate about Coding | DSA | SQL | Cyber security | Machine Learning | Power Bi | Pyhton | Data analytics | OOP
 
 # WHAT I DO?? 
 Currently learning Data Structure and algorithms(DSA),SQL,And Object oriented programming(OOP)
