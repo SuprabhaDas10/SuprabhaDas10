@@ -1,18 +1,25 @@
-# Hi there, I’m Suprabha Das!
- B.Tech(CSIT) | FINAL YEAR | Data Science & Tech Enthusiast passionate about Coding | SQL | Cyber security | Machine Learning | Power Bi | Python | Data analytics | OOP
+# Hi, I'm Suprabha Das 👋
 
-# WHAT I DO?? 
-Currently learning Machine Learning
-Exploring Machine Learning ,Cyber Security,and Data Science
-Working on Real world Data Analytics and Power Bi Projects 
-Solving competitive programming and SQL queries
+🎓 Final Year B.Tech (CSIT) Student  
+📊 Aspiring Data Analyst | Python | SQL | Power BI  
 
-# Looking to collaborate on
-Open-source projects a hackathons
-Data Science,Machine Learning and AI projects
-Tech Blogging and knowledge Sharing 
+---
 
-# How to Reach Me?  
-🔗 LinkedIn: https://www.linkedin.com/in/suprabha-das10    
+## 🚀 About Me
+- Passionate about Data Analytics and Machine Learning
+- Experienced in Data Cleaning, Visualization & Model Building
+- Built real-world projects using Python, Pandas, NumPy & Scikit-learn
+- Strong foundation in SQL and Database Concepts
 
- 
+---
+
+## 🛠 Tech Stack
+- 💻 Programming: Python, SQL  
+- 📊 Data Tools: Power BI, Excel  
+- 📚 Libraries: Pandas, NumPy, Matplotlib, Scikit-learn  
+- 🗄 Database: MySQL  
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: linkedin.com/in/suprabha-das10
